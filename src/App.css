@@ -1,0 +1,15 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Salsa&display=swap');
+
+ 
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Lobster', sans-serif;
+  font-family: 'Salsa', cursive;
+}
+.app{
+  margin: 10px 6px;
+}
+
